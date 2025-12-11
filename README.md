@@ -45,3 +45,15 @@ Construire un pipeline de machine learning pour prédire le statut diabétique e
 - Obtenir/confirmer le jeu de données exact du CDC et la définition de la cible.
 - Implémenter le prétraitement et le modèle de base.
 - Itérer avec la sélection des caractéristiques et l'optimisation en fonction des résultats de validation.
+
+
+
+https://www.kaggle.com/code/bharat04/diabetes-detailed-eda-with-conclusion
+
+https://www.kaggle.com/code/abdallahsaadelgendy/diabetes-prediction-eda-preprocessing-models/notebook
+
+
+https://www.kaggle.com/code/anastasiyaigonina/diabetes-eda-hypothesis-testing-predictions#Feature-engineering
+
+
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/code?datasetId=1703281&sortBy=voteCount
